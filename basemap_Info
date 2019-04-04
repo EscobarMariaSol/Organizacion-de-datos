@@ -1,0 +1,4 @@
+Como instalar basemap
+
+sudo apt-get install python-matplotlib
+sudo apt-get install python-mpltoolkits.basemap
